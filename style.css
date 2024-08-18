@@ -1,0 +1,49 @@
+.margin{
+    border: 3px dashed orange;
+    padding: 100px;
+    margin: auto;
+}
+.txt1{
+    font-size: 45px;
+    margin-top: -100px;
+    margin-left: -80px;
+}
+.border{
+    background-color: black;
+    margin-top: 30px;
+    padding: 40px;
+    margin: auto    ;
+}
+.txt2{
+    color: white;
+    font-size: 45px;
+    margin-top: -40px;
+    margin-left: -30px;
+}
+.padding{
+    background-color: rgb(255, 197, 111);
+    margin-top: -40px;
+    padding: 70px;
+}
+.txt3{
+    font-size: 50px;
+    color: black;
+    margin-top: -70px;
+    margin-left: -30px;
+}
+.content{
+    background-color: orangered;
+    padding: 40px;
+    margin-top: -40px;
+}
+.txt4{
+    font-size: 45px;
+    margin-top: -40px;
+    margin-left: -30px;
+    color: white;
+}
+.txt5{
+    font-size: 40px;
+    margin-top: -40px;
+    margin-left: -30px;
+}
